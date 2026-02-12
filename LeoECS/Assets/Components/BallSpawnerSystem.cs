@@ -65,7 +65,7 @@ public partial class BallSpawnerSystem : SystemBase
             });
         }
 
-        Debug.Log($"✅ Spawned {spawnCount} balls with zigzag movement");
+        Debug.Log($" Spawned {spawnCount} balls with zigzag movement");
         spawned = true;
         Enabled = false;
     }
