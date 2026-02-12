@@ -35,10 +35,10 @@ public partial struct ECSPerformanceProfiler : ISystem
 
 #if UNITY_EDITOR
             Debug.Log($"=== ECS PROFILER [{System.DateTime.Now:HH:mm:ss}] ===");
-            Debug.Log($"📊 Balls: {ballCount}");
-            Debug.Log($"🎯 FPS: {fps:F1}");
-            Debug.Log($"💾 Memory: {totalMemory} MB");
-            Debug.Log($"⚙️ Systems: {GetSystemCount(state)}");
+            Debug.Log($" Balls: {ballCount}");
+            Debug.Log($" FPS: {fps:F1}");
+            Debug.Log($" Memory: {totalMemory} MB");
+            Debug.Log($" Systems: {GetSystemCount(state)}");
             Debug.Log($"=================================");
 #endif
 
