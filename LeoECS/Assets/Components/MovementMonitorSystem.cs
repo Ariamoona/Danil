@@ -27,9 +27,9 @@ public partial struct MonitorSystem : ISystem
 
 #if UNITY_EDITOR
             Debug.Log($"=== ECS PERFORMANCE ===");
-            Debug.Log($"🎯 FPS: {fps:F1}");
-            Debug.Log($"⚽ Zigzag Balls: {ballCount}");
-            Debug.Log($"⏱️ Delta Time: {SystemAPI.Time.DeltaTime * 1000:F2} ms");
+            Debug.Log($" FPS: {fps:F1}");
+            Debug.Log($" Zigzag Balls: {ballCount}");
+            Debug.Log($" Delta Time: {SystemAPI.Time.DeltaTime * 1000:F2} ms");
             Debug.Log($"========================");
 #endif
 
