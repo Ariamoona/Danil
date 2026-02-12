@@ -1,0 +1,7 @@
+::Exported Types (by stable hash)::
+0x2d6324ec1523c9e0 -    3270498350786660832 - Unity.Entities.Simulate
+0x001f79e44e197fd0 -       8859745747828688 - Unity.Transforms.LocalTransform
+0x26af4ee293a2ec2b -    2787533429412129835 - ZigzagComponent
+0x5783a4e9f8ff0dbb -    6306065228060626363 - Unity.Entities.SystemInstance
+0xe7f3c81f7369babd -   16713922679507892925 - Unity.Entities.SceneSection
+0x8e54084ebb177ef0 -   10255831385668812528 - Unity.Transforms.LocalToWorld

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\job system \u0438 ecs\\assets\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\debugdrawcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\debugdrawcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\moveincircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\moveincircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\movingcubeauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\movingcubeauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\assets\\movespeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD611-1584-6CDE-9767-6D2ADA566113}|Assembly-CSharp.csproj|solutionrelative:assets\\movespeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Controller.cs",
+              "RelativeToolTip": "Assets\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:41:24.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugDrawComponent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\DebugDrawComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\DebugDrawComponent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\DebugDrawComponent.cs",
+              "RelativeToolTip": "Assets\\DebugDrawComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:40:40.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveInCircle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\MoveInCircle.cs",
+              "RelativeDocumentMoniker": "Assets\\MoveInCircle.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\MoveInCircle.cs",
+              "RelativeToolTip": "Assets\\MoveInCircle.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:38:06.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spawn.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawn.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\Spawn.cs",
+              "RelativeToolTip": "Assets\\Spawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:37:13.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovingCubeAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\MovingCubeAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\MovingCubeAuthoring.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\MovingCubeAuthoring.cs",
+              "RelativeToolTip": "Assets\\MovingCubeAuthoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:36:38.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\MoveSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\MoveSpeed.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Job System \u0438 ECS\\Assets\\MoveSpeed.cs",
+              "RelativeToolTip": "Assets\\MoveSpeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:35:54.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

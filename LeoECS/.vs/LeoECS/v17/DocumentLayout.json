@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\profilersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\profilersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\zigzagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\zigzagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\movementmonitorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\movementmonitorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\ballspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\ballspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\leoecs\\assets\\components\\authorig\\counterauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\authorig\\counterauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\zigzagmovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\zigzagmovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\authorig\\zigzagballauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\authorig\\zigzagballauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\zigzagcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\zigzagcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\countersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\countersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\counterauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\components\\counterauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\assets\\components\\countercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\countercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\leoecs\\assets\\components\\performancelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EE6D96-8A0A-CE2D-B78D-570E4A34A9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\components\\performancelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CounterAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\Authorig\\CounterAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\Authorig\\CounterAuthoring.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\Authorig\\CounterAuthoring.cs",
+              "RelativeToolTip": "Assets\\Components\\Authorig\\CounterAuthoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:15:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BallSpawnerSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\BallSpawnerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\BallSpawnerSystem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\BallSpawnerSystem.cs",
+              "RelativeToolTip": "Assets\\Components\\BallSpawnerSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:08:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovementMonitorSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\MovementMonitorSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\MovementMonitorSystem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\MovementMonitorSystem.cs",
+              "RelativeToolTip": "Assets\\Components\\MovementMonitorSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:06:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZigzagComponent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ZigzagComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\ZigzagComponent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ZigzagComponent.cs",
+              "RelativeToolTip": "Assets\\Components\\ZigzagComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:03:04.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZigzagBallAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\Authorig\\ZigzagBallAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\Authorig\\ZigzagBallAuthoring.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\Authorig\\ZigzagBallAuthoring.cs",
+              "RelativeToolTip": "Assets\\Components\\Authorig\\ZigzagBallAuthoring.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:04:32.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZigzagMovementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ZigzagMovementSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\ZigzagMovementSystem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ZigzagMovementSystem.cs",
+              "RelativeToolTip": "Assets\\Components\\ZigzagMovementSystem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:05:49.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZigzagController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ZigzagController.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\ZigzagController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ZigzagController.cs",
+              "RelativeToolTip": "Assets\\Components\\ZigzagController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:09:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfilerSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ProfilerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\ProfilerSystem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\ProfilerSystem.cs",
+              "RelativeToolTip": "Assets\\Components\\ProfilerSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:11:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CounterSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\CounterSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\CounterSystem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\CounterSystem.cs",
+              "RelativeToolTip": "Assets\\Components\\CounterSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:02:17.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CounterComponent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\CounterComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\CounterComponent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\CounterComponent.cs",
+              "RelativeToolTip": "Assets\\Components\\CounterComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:58:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PerformanceLogger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\PerformanceLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\PerformanceLogger.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\PerformanceLogger.cs",
+              "RelativeToolTip": "Assets\\Components\\PerformanceLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:12:47.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CounterAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\CounterAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Components\\CounterAuthoring.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\LeoECS\\Assets\\Components\\CounterAuthoring.cs",
+              "RelativeToolTip": "Assets\\Components\\CounterAuthoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:01:37.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
